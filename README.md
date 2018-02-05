@@ -3,7 +3,7 @@ Image Deblurring using SeDDaRA and Richardson-Lucy with MATLAB
 
 
 HOW TO:
-1. Download https://gist.github.com/nurmanhariyanto/e63024c5c2b039dc4eb5b7388dcfe3cb/archive/.zip to your disk.
+1. Download or clone file to your disk.
 2. Run your MATLAB.
 3.Open file. 
 4. Input your image test and image reference
